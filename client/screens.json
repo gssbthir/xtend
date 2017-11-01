@@ -1,11 +1,11 @@
 {
   "id": "app",
   "name": "xtend_2",
-  "startScreen": "app.blank",
+  "startScreen": "app.home",
   "screens": [
     {
-      "id": "blank",
-      "name": "Blank",
+      "id": "home",
+      "name": "Home",
       "sourceAppId": "_blank",
       "sourceScreenId": "app.blank"
     },
