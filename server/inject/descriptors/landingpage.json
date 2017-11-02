@@ -5,6 +5,11 @@
       "type": "action",
       "selector": ".dropdown-toggle",
       "control": "action.link"
+    },
+    "clickinfo": {
+      "type": "action",
+      "selector": "#infoCenter",
+      "control": "action.link"
     }
   },
   "connect": []
