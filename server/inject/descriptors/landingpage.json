@@ -9,9 +9,9 @@
     },
     "clickafs": {
       "type": "action",
-      "selector": "a",
-      "control": "action.button",
-      "selectContains": "href=\"/Xtend/AFS\""
+      "control": "action.link",
+      "selectContains": "AFS",
+      "selector": "a[href=\"/Xtend/AFS\"]"
     }
   },
   "connect": []
