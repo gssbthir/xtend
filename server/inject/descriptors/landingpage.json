@@ -14,7 +14,9 @@
       "selector": "a[href=\"/Xtend/AFS\"]"
     },
     "afsclick": {
-      "type": "action"
+      "type": "action",
+      "selector": "a[href='/Xtend/AFS']",
+      "control": "action.link"
     }
   },
   "connect": []
