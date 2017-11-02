@@ -10,6 +10,11 @@
       "type": "action",
       "selector": "#infoCenter",
       "control": "action.link"
+    },
+    "clickbatch": {
+      "type": "action",
+      "selector": "a[href=\"/Xtend/AFS/info/InfoCenterBase/SetSection?id=13\"]",
+      "control": "property.innerText"
     }
   },
   "connect": []
