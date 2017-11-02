@@ -20,7 +20,7 @@
         "islanding"
       ],
       "action": "clickbatch",
-      "model": "landingpage"
+      "model": "home"
     }
   ]
 }
