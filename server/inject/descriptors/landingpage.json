@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "clickafs": {
+      "type": "string",
+      "selector": "a[href=\"/Xtend/AFS\"]",
+      "control": "action.link"
+    }
+  },
+  "connect": []
+}
