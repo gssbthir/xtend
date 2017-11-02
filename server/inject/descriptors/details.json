@@ -8,7 +8,7 @@
         "type": "none"
       },
       "selector": "td",
-      "selectIndex": 2,
+      "selectIndex": 1,
       "control": "property.innerText"
     },
     "status": {
