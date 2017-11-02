@@ -3,8 +3,9 @@
   "properties": {
     "islandingpage": {
       "type": "identifier",
-      "selector": "h1",
-      "control": "exists"
+      "selector": ".big",
+      "control": "exists",
+      "selectContains": "Select your application"
     },
     "clickafs": {
       "type": "action",
