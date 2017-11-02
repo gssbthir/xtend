@@ -5,6 +5,11 @@
       "type": "identifier",
       "selector": "h1",
       "control": "exists"
+    },
+    "clickmenu": {
+      "type": "action",
+      "selector": "<pseudo:before>",
+      "control": "action.link"
     }
   },
   "connect": []
