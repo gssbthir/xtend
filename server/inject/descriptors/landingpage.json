@@ -9,9 +9,8 @@
     },
     "clickafs": {
       "type": "action",
-      "selector": ".appname",
-      "control": "action.link",
-      "selectContains": "AFS"
+      "selector": "h1",
+      "control": "property.innerText"
     }
   },
   "connect": []
