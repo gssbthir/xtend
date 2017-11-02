@@ -10,7 +10,7 @@
     "clickafs": {
       "type": "action",
       "selector": "a",
-      "control": "action.link",
+      "control": "action.button",
       "selectContains": "href=\"/Xtend/AFS\""
     }
   },
