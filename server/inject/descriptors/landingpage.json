@@ -9,8 +9,9 @@
     },
     "clickafs": {
       "type": "action",
-      "selector": "h1",
-      "control": "property.innerText"
+      "selector": "a",
+      "control": "action.link",
+      "selectContains": "href=\"/Xtend/AFS\""
     }
   },
   "connect": []
