@@ -13,9 +13,10 @@
     },
     "clickinfo": {
       "type": "action",
-      "selector": ".icon-info-sign.icon-xxx",
+      "selector": ".dropdown-menu.app-menu",
       "control": "action.button",
-      "selectContains": "Info Center"
+      "selectContains": "Info Center",
+      "selectIndex": 2
     }
   },
   "connect": []
