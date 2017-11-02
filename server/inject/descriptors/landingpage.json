@@ -16,12 +16,25 @@
       "selector": "a",
       "control": "action.link"
     },
-    "isafs": {
+    "ismenu": {
       "type": "identifier",
-      "selector": ".brand",
+      "selector": "h1",
       "control": "exists",
-      "selectContains": "AFS Infocenter"
+      "selectContains": "Select your application"
+    },
+    "isinfo": {
+      "type": "identifier",
+      "selector": "#infoCenter",
+      "control": "exists",
+      "selectContains": "Info Center"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "ismenu"
+      ],
+      "action": "clickmenu"
+    }
+  ]
 }
