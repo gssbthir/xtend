@@ -13,7 +13,7 @@
     },
     "clickinfo": {
       "type": "action",
-      "selector": "#text",
+      "selector": ".dropdown-menu.app-menu",
       "control": "action.link",
       "selectContains": "Info Center"
     }
