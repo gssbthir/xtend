@@ -14,6 +14,25 @@
   "details": {
     "type": "object",
     "comment": "details screen model",
-    "properties": {}
+    "properties": {
+      "batchnumber": {
+        "type": "string"
+      },
+      "status": {
+        "type": "string"
+      },
+      "tasknumber": {
+        "type": "string"
+      },
+      "quantity": {
+        "type": "string"
+      },
+      "currentopp": {
+        "type": "string"
+      },
+      "nextopp": {
+        "type": "string"
+      }
+    }
   }
 }
