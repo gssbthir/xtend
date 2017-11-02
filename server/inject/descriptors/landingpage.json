@@ -8,8 +8,7 @@
     },
     "clickmenu": {
       "type": "action",
-      "control": "action.link",
-      "selector": ".icon-reorder.icon-xxx"
+      "control": "action.link"
     }
   },
   "connect": []
