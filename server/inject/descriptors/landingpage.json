@@ -19,7 +19,8 @@
       "match": [
         "islanding"
       ],
-      "action": "clickbatch"
+      "action": "clickbatch",
+      "model": "landingpage"
     }
   ]
 }
