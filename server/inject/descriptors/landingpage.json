@@ -14,7 +14,7 @@
     "clickinfo": {
       "type": "action",
       "selector": ".dropdown-menu.app-menu",
-      "control": "action.button",
+      "control": "action.link",
       "selectContains": "Info Center",
       "selectIndex": 2
     }
