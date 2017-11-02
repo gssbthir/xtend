@@ -14,8 +14,9 @@
     },
     "ishome": {
       "type": "identifier",
-      "selector": ".btn.btn-primary.preventMultiClick.btn-first",
-      "control": "action.button"
+      "selector": "h3",
+      "control": "exists",
+      "selectContains": "Enter the Batch Number"
     }
   },
   "connect": []
