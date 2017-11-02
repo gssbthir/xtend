@@ -14,5 +14,12 @@
       "selector": "a"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "islandingpage"
+      ],
+      "action": "clickafs"
+    }
+  ]
 }
