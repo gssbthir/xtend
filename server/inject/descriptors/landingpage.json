@@ -15,8 +15,7 @@
     },
     "afsclick": {
       "type": "action",
-      "selector": "a",
-      "control": "action.link"
+      "selector": "a"
     }
   },
   "connect": []
