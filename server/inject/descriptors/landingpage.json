@@ -14,8 +14,9 @@
     },
     "clickafs": {
       "type": "action",
-      "selector": ".dropdown-toggle",
-      "control": "action.link"
+      "selector": ".appname",
+      "control": "action.link",
+      "selectContains": "AFS"
     }
   },
   "connect": []
