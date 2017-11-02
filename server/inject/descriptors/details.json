@@ -44,7 +44,7 @@
         "type": "none"
       },
       "selector": "td",
-      "selectIndex": 9,
+      "selectIndex": 13,
       "control": "property.innerText"
     },
     "nextopp": {
@@ -53,7 +53,7 @@
         "type": "none"
       },
       "selector": "td",
-      "selectIndex": 11,
+      "selectIndex": 15,
       "control": "property.innerText"
     }
   },
