@@ -3,9 +3,15 @@
   "properties": {
     "clickbatch": {
       "type": "action",
-      "selector": "a[href=\"/Xtend/AFS/info/InfoCenterBase/SetSection?id=13\"]",
+      "selector": "a",
       "control": "action.link",
       "selectContains": "Batch"
+    },
+    "islanding": {
+      "type": "identifier",
+      "selector": ".brand",
+      "control": "exists",
+      "selectContains": "AFS Infocenter"
     }
   },
   "connect": []
