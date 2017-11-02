@@ -70,7 +70,8 @@
       ],
       "screens": [
         "details"
-      ]
+      ],
+      "model": "details"
     }
   ]
 }
