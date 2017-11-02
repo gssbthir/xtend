@@ -9,7 +9,7 @@
     "clickmenu": {
       "type": "action",
       "selector": ".dropdown-toggle",
-      "control": "action.button"
+      "control": "action.link"
     }
   },
   "connect": []
