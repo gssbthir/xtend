@@ -55,6 +55,11 @@
       "selector": "td",
       "selectIndex": 15,
       "control": "property.innerText"
+    },
+    "isdetails": {
+      "type": "identifier",
+      "selector": "a",
+      "control": "action.link"
     }
   },
   "connect": []
