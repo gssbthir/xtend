@@ -8,8 +8,8 @@
     },
     "clickmenu": {
       "type": "action",
-      "selector": "<pseudo:before>",
-      "control": "action.link"
+      "control": "action.link",
+      "selector": ".icon-reorder.icon-xxx"
     }
   },
   "connect": []
