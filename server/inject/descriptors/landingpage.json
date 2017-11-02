@@ -6,15 +6,16 @@
       "selector": "h1",
       "control": "exists"
     },
-    "clickmenu": {
-      "type": "action",
-      "selector": ".dropdown-toggle",
-      "control": "action.link"
-    },
     "clickinfo": {
       "type": "action",
       "control": "action.link",
-      "selector": "#infoCenter"
+      "selector": ".appname",
+      "selectContains": "AFS"
+    },
+    "clickafs": {
+      "type": "action",
+      "selector": ".dropdown-toggle",
+      "control": "action.link"
     }
   },
   "connect": []
