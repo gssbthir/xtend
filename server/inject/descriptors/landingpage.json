@@ -14,7 +14,7 @@
     },
     "clickafs": {
       "type": "action",
-      "selector": ".appname",
+      "selector": ".appname version",
       "control": "action.link",
       "selectContains": "AFS"
     }
