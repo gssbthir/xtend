@@ -4,10 +4,18 @@
   "properties": {
     "batchnumber": {
       "type": "string",
-      "selector": "#txtinfo"
+      "selector": "#txtinfo",
+      "control": "text"
     },
     "submit": {
-      "type": "action"
+      "type": "action",
+      "selector": ".btn.btn-primary.preventMultiClick.btn-first",
+      "control": "action.button"
+    },
+    "ishome": {
+      "type": "identifier",
+      "selector": ".btn.btn-primary.preventMultiClick.btn-first",
+      "control": "action.button"
     }
   },
   "connect": []
