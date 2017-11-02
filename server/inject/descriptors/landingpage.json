@@ -5,6 +5,12 @@
       "type": "action",
       "control": "action.link",
       "selector": "a"
+    },
+    "islanding": {
+      "type": "identifier",
+      "selector": ".brand",
+      "control": "exists",
+      "selectContains": "AFS Infocenter"
     }
   },
   "connect": []
