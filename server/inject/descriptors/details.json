@@ -58,8 +58,9 @@
     },
     "isdetails": {
       "type": "identifier",
-      "selector": "a",
-      "control": "action.link"
+      "selector": "#general-information",
+      "control": "exists",
+      "selectContains": "general-information"
     }
   },
   "connect": []
