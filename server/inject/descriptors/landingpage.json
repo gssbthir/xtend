@@ -11,7 +11,7 @@
       "type": "action",
       "control": "action.link",
       "selectContains": "AFS",
-      "selector": "a"
+      "selector": "span4 span-first-child xtendapp a"
     }
   },
   "connect": []
