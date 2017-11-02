@@ -1,0 +1,46 @@
+{
+  "type": "object",
+  "comment": "details screen model",
+  "properties": {
+    "batchnumber": {
+      "type": "string",
+      "update": {
+        "type": "none"
+      },
+      "selector": "td",
+      "selectIndex": 2,
+      "control": "property.innerText"
+    },
+    "status": {
+      "type": "string",
+      "update": {
+        "type": "none"
+      }
+    },
+    "tasknumber": {
+      "type": "string",
+      "update": {
+        "type": "none"
+      }
+    },
+    "quantity": {
+      "type": "string",
+      "update": {
+        "type": "none"
+      }
+    },
+    "currentopp": {
+      "type": "string",
+      "update": {
+        "type": "none"
+      }
+    },
+    "nextopp": {
+      "type": "string",
+      "update": {
+        "type": "none"
+      }
+    }
+  },
+  "connect": []
+}
