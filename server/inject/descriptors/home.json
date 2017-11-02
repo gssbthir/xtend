@@ -1,0 +1,14 @@
+{
+  "type": "object",
+  "comment": "home screen model",
+  "properties": {
+    "batchnumber": {
+      "type": "string",
+      "selector": "#txtinfo"
+    },
+    "submit": {
+      "type": "action"
+    }
+  },
+  "connect": []
+}
