@@ -22,13 +22,6 @@
       "sourceScreenId": "app.multiselect"
     },
     {
-      "id": "detail",
-      "name": "detail",
-      "sourceScreenId": "app.formsmall.formsmallconfident",
-      "sourceAppId": "universaltemplates",
-      "model": "detail"
-    },
-    {
       "id": "details",
       "name": "details",
       "sourceScreenId": "app.blank",
