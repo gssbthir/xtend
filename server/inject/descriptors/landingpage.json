@@ -13,5 +13,12 @@
       "selectContains": "AFS Infocenter"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "islanding"
+      ],
+      "action": "clickbatch"
+    }
+  ]
 }
