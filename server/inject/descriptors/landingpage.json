@@ -13,8 +13,9 @@
     },
     "clickinfo": {
       "type": "action",
-      "selector": ".dropdown-menu.app-menu",
-      "control": "action.link"
+      "selector": "#text",
+      "control": "action.link",
+      "selectContains": "Info Center"
     }
   },
   "connect": []
