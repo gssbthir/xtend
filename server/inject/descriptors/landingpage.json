@@ -15,7 +15,8 @@
       "type": "action",
       "control": "action.link",
       "selectContains": "Info Center",
-      "selectIndex": 2
+      "selectIndex": 2,
+      "selector": ".dropdown-menu.app-menu li.active"
     }
   },
   "connect": []
