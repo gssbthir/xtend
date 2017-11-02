@@ -19,5 +19,12 @@
       "selectContains": "Enter the Batch Number"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "ishome"
+      ],
+      "action": "submit"
+    }
+  ]
 }
