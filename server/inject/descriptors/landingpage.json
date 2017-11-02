@@ -6,15 +6,9 @@
       "selector": "h1",
       "control": "exists"
     },
-    "clickinfo": {
-      "type": "action",
-      "control": "action.link",
-      "selector": ".appname",
-      "selectContains": "AFS"
-    },
     "clickafs": {
       "type": "action",
-      "selector": ".appname version",
+      "selector": ".appname",
       "control": "action.link",
       "selectContains": "AFS"
     }
