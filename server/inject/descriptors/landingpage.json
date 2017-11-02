@@ -8,7 +8,7 @@
     },
     "clickmenu": {
       "type": "action",
-      "selector": "<pseudo:before>",
+      "selector": ".dropdown-toggle",
       "control": "action.link"
     }
   },
