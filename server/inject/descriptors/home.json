@@ -27,7 +27,7 @@
       "screens": [
         "home"
       ],
-      "model": "home"
+      "model": "details"
     }
   ]
 }
