@@ -9,7 +9,7 @@
     },
     "clickafs": {
       "type": "action",
-      "control": "action.button",
+      "control": "action.link",
       "selectContains": "AFS",
       "selector": "a"
     }
