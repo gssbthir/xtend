@@ -14,7 +14,7 @@
     "clickinfo": {
       "type": "action",
       "control": "action.link",
-      "selector": ".icon-info-sign.icon-xxx"
+      "selector": "#infoCenter"
     }
   },
   "connect": []
