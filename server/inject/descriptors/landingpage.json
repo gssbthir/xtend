@@ -3,22 +3,9 @@
   "properties": {
     "clickbatch": {
       "type": "action",
-      "control": "action.link",
-      "selector": "a"
-    },
-    "islanding": {
-      "type": "identifier",
-      "selector": ".brand",
-      "control": "exists",
-      "selectContains": "AFS Infocenter"
+      "selector": "a[href=\"/Xtend/AFS/info/InfoCenterBase/SetSection?id=13\"]",
+      "control": "action.link"
     }
   },
-  "connect": [
-    {
-      "match": [
-        "islanding"
-      ],
-      "action": "clickbatch"
-    }
-  ]
+  "connect": []
 }
