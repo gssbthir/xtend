@@ -63,5 +63,14 @@
       "selectContains": "general-information"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "isdetails"
+      ],
+      "screens": [
+        "details"
+      ]
+    }
+  ]
 }
