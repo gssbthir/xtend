@@ -12,6 +12,11 @@
       "control": "action.link",
       "selectContains": "AFS",
       "selector": "a[href=\"/Xtend/AFS\"]"
+    },
+    "afsclick": {
+      "type": "action",
+      "selector": "a",
+      "control": "action.link"
     }
   },
   "connect": []
