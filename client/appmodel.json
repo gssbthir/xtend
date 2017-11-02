@@ -1,1 +1,19 @@
-{}
+{
+  "home": {
+    "type": "object",
+    "comment": "home screen model",
+    "properties": {
+      "batchnumber": {
+        "type": "string"
+      },
+      "submit": {
+        "type": "action"
+      }
+    }
+  },
+  "details": {
+    "type": "object",
+    "comment": "details screen model",
+    "properties": {}
+  }
+}
