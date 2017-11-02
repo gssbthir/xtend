@@ -14,12 +14,5 @@
       "selector": "a[href=\"/Xtend/AFS\"]"
     }
   },
-  "connect": [
-    {
-      "match": [
-        "islandingpage"
-      ],
-      "action": "clickafs"
-    }
-  ]
+  "connect": []
 }
