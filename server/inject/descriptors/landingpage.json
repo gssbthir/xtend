@@ -14,7 +14,7 @@
     "clickinfo": {
       "type": "action",
       "selector": ".icon-info-sign.icon-xxx",
-      "control": "action.link",
+      "control": "action.button",
       "selectContains": "Info Center"
     }
   },
