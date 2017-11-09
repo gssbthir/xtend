@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "clickmenu": {
+      "type": "action",
+      "selector": ".dropdown-toggle",
+      "control": "property.innerText"
+    }
+  },
+  "connect": []
+}
