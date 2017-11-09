@@ -4,7 +4,7 @@
     "clickmenu": {
       "type": "action",
       "selector": ".dropdown-toggle",
-      "control": "property.innerText"
+      "control": "action.link"
     },
     "isafshome": {
       "type": "identifier",
