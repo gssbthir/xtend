@@ -1,16 +1,16 @@
 {
   "type": "object",
   "properties": {
-    "islanding": {
-      "type": "identifier",
-      "selector": ".brand",
-      "control": "exists",
-      "selectContains": "AFS Infocenter"
-    },
     "clickbatch": {
       "type": "action",
       "selector": "a[href=\"/Xtend/AFS/info/InfoCenterBase/SetSection?id=13\"]",
       "control": "action.button"
+    },
+    "islanding": {
+      "type": "identifier",
+      "control": "exists",
+      "selector": ".brand",
+      "selectContains": "AFS Infocenter"
     }
   },
   "connect": [
