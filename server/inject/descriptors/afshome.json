@@ -5,6 +5,12 @@
       "type": "action",
       "selector": ".dropdown-toggle",
       "control": "property.innerText"
+    },
+    "isafshome": {
+      "type": "identifier",
+      "selector": "h2",
+      "control": "action.link",
+      "selectContains": "Workgroups"
     }
   },
   "connect": []
