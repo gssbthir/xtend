@@ -10,7 +10,7 @@
     "clickbatch": {
       "type": "action",
       "selector": "a[href=\"/Xtend/AFS/info/InfoCenterBase/SetSection?id=13\"]",
-      "control": "action.button"
+      "control": "action.link"
     }
   },
   "connect": [
