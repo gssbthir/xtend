@@ -7,9 +7,9 @@
       "control": "exists",
       "selectContains": "AFS Infocenter"
     },
-    "clickafs": {
+    "clickbatch": {
       "type": "action",
-      "selector": "a[href=\"/Xtend/AFS\"]",
+      "selector": "a[href=\"/Xtend/AFS/info/InfoCenterBase/SetSection?id=13\"]",
       "control": "action.link"
     }
   },
