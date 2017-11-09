@@ -6,6 +6,11 @@
       "control": "exists",
       "selector": ".brand",
       "selectContains": "AFS Infocenter"
+    },
+    "clickbatch": {
+      "type": "action",
+      "selector": "a[href=\"/Xtend/AFS/info/InfoCenterBase/SetSection?id=13\"]",
+      "control": "action.link"
     }
   },
   "connect": [
