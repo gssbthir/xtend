@@ -1,26 +1,17 @@
 {
   "type": "object",
   "properties": {
-    "clickbatch": {
-      "type": "action",
-      "selector": "a",
-      "control": "action.link",
-      "selectContains": "Batch"
-    },
     "islanding": {
       "type": "identifier",
       "selector": ".brand",
       "control": "exists",
       "selectContains": "AFS Infocenter"
+    },
+    "clickafs": {
+      "type": "action",
+      "selector": "a[href=\"/Xtend/AFS\"]",
+      "control": "action.link"
     }
   },
-  "connect": [
-    {
-      "match": [
-        "islanding"
-      ],
-      "action": "clickbatch",
-      "model": "home"
-    }
-  ]
+  "connect": []
 }
