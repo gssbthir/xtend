@@ -59,8 +59,7 @@
     "isdetails": {
       "type": "identifier",
       "selector": "#general-information",
-      "control": "exists",
-      "selectContains": "general-information"
+      "control": "exists"
     }
   },
   "connect": [
