@@ -14,5 +14,12 @@
       "selectContains": "Batch"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "islanding"
+      ],
+      "action": "clickbatch"
+    }
+  ]
 }
