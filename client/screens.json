@@ -33,13 +33,6 @@
       "id": "landingpage",
       "name": "landingpage",
       "sourceScreenId": "app.blank",
-      "sourceAppId": "_blank",
-      "model": "landingpage"
-    },
-    {
-      "id": "landingpage",
-      "name": "landingpage",
-      "sourceScreenId": "app.blank",
       "sourceAppId": "_blank"
     }
   ],
