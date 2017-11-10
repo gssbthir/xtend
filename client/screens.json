@@ -28,6 +28,13 @@
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank",
       "model": "details"
+    },
+    {
+      "id": "formlargecaptivating",
+      "name": "FormLarge-Captivating",
+      "sourceScreenId": "app.formlarge.formlargecaptivating",
+      "sourceAppId": "universaltemplates",
+      "model": "formlargecaptivating"
     }
   ],
   "sourceAppId": "_blank",
