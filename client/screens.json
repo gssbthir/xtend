@@ -28,12 +28,6 @@
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank",
       "model": "details"
-    },
-    {
-      "id": "landingpage",
-      "name": "landingpage",
-      "sourceScreenId": "app.blank",
-      "sourceAppId": "_blank"
     }
   ],
   "sourceAppId": "_blank",
