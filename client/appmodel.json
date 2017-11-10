@@ -52,5 +52,14 @@
         }
       }
     }
+  },
+  "landingpage": {
+    "type": "object",
+    "comment": "Landing Page",
+    "properties": {
+      "Batch": {
+        "type": "action"
+      }
+    }
   }
 }
