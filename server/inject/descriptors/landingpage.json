@@ -19,7 +19,9 @@
       "match": [
         "islanding"
       ],
-      "action": "clickafs"
+      "screens": [
+        "landingpage"
+      ]
     }
   ]
 }
