@@ -3,6 +3,12 @@
   "description": "",
   "defaultLayout": "phone-portrait",
   "previewToken": "a6eb6df4",
-  "uiCommonVersion": "5.2.1",
-  "creatorId": "gssvenra"
+  "uiCommonVersion": "5.0.58",
+  "creatorId": "gssvenra",
+  "id": "xtend_2",
+  "previewImageURL": "/previews/a6eb6df4-xtend_2/app/home.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/gssvenra/xtend",
+  "creatorName": "Venugopal Ramamurthy",
+  "sdks": []
 }
